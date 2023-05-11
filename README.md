@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lockalook
+- 👋 Hi, I’m @namija
 - 👀 I’m interested in game design, particularly level and content design.
 - 🌱 I’m currently learning AR/VR art and design for Unity.
 
